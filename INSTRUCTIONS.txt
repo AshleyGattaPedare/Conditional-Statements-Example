@@ -1,0 +1,8 @@
+Having gained a lot of popularity at NASA for being a stellar software engineer, the big head honchos at Netflix offered you a deal that you could not refuse. 
+Anyway, you're happy to be offered a job without anyone's life on the line, that was kind of stressful.
+
+As a software engineer at Netflix, you are tasked with creating a simple movie recommendation system.
+
+Each following brief will become more challenging, because let's face it, the movie business is a tough business. But you can do it!
+
+Good luck.
