@@ -1,4 +1,4 @@
-#Step 1: We are going to define a list of possible recommendations. That's been done for you below.
+#Step 1: We are going to define a list of recommendations. That's been done for you below.
 
 all_movies = ["The Matrix", "Inception", "Pride and Prejudice", "Titanic"]
 
